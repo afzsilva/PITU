@@ -1,7 +1,7 @@
 import app from "./app";
 import database from './database';
 
-const port = 3000;
+const port = 3001;
 
 database.sync();//banco
 
